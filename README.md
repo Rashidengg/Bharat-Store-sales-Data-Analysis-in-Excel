@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of the Vrinda Store Data Analysis project is to create an annual sales report for 2022. This report aims to provide insights that can help Vrinda Store understand customer behavior and improve sales strategies for 2023.
+The goal of the Bharat Store Data Analysis project is to create an annual sales report for 2022. This report aims to provide insights that can help Vrinda Store understand customer behavior and improve sales strategies for 2023.
 
 ## Business Questions Explored
 
